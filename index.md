@@ -1,13 +1,13 @@
 ---
 layout: page
-title: This American Life Addict
-tagline: What makes an interesting story?
+title: 故事讲讲
+tagline: "What makes an interesting story?"
 published: true
 ---
 
 {% include JB/setup %}
   
-## Posts
+## 贴子
 
 <ul class="posts">
   {% for post in site.posts %}
