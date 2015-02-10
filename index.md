@@ -1,7 +1,7 @@
 ---
 layout: page
 title: This American Life Addict
-tagline: Supporting tagline
+tagline: tagline
 published: true
 ---
 
