@@ -1,6 +1,6 @@
 ---
 layout: page
 title: "About"
-description: "Page Description"
+description: ""
 ---
 {% include JB/setup %}
