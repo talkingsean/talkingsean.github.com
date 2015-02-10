@@ -1,7 +1,7 @@
 ---
 layout: page
 title: This American Life Addict
-tagline: tagline
+tagline: What makes an interesting story?
 published: true
 ---
 
